@@ -1,0 +1,30 @@
+html {
+	font-size: 14px;
+}
+
+
+body {
+	padding-top: 5rem;
+}
+.navbar {
+	background-color: #6666ff;
+}
+.navbar a.navbar-brand {
+	color:white;
+}
+.navbar-nav > .nav-item > .nav-link {
+	color:white;
+}
+.navbar-nav > .nav-account {
+	float:right;
+}
+
+div.row > div > select, 
+	div.row > div > input[type="text"],
+	div.row > div > input[type="email"] {
+	width:100%;
+}
+
+div.ol1  { 
+	border-bottom: 1px solid #dff 
+}
